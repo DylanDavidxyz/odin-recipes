@@ -1,0 +1,65 @@
+body {
+	background-color: #e7e7b0;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+
+}
+
+header {
+	background-color: #5b5b54;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #FFF;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+.image {
+	float:;
+	margin-right: 5;
+	width: 100%;
+}
+
+a {
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+.boxes {
+	float: center;
+}
+
+.cookies {
+	float: left;
+	background-image: url(../img/cookies.webp);
+	padding: 100px;
+	text-align: center;
+	font-size: 32px;
+	background-size: cover;
+	margin: 2%;
+}
+
+.potatoes {
+	float: left;
+	background-image: url(../img/potatoes.webp);
+	padding: 100px;
+	text-align: center;
+	font-size: 32px;
+	background-size: cover;
+	margin: 2%;
+}
+
+.dough {
+	float: left;
+	background-image: url(../img/dough.webp);
+	padding: 100px;
+	text-align: center;
+	font-size: 32px;
+	background-size: cover;
+	margin: 2%;
+}
